@@ -1,6 +1,5 @@
-
-package huffman;
-
+import edu.princeton.cs.algs4.StdOut;
+import edu.princeton.cs.algs4.StdIn;
 import java.util.ArrayList;
 
 /**
