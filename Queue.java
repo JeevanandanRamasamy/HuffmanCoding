@@ -1,5 +1,3 @@
-package huffman;
-
 /**
  * This class contains a generic queue class which supports 
  * isEmpty, size, enqueue, dequeue, and peek. It is implemented
